@@ -1,0 +1,11 @@
+db.products.insert
+([
+{"pid":"1","pname":"car","category":"vehicle","qty":"15"},
+{"pid":"2","pname":"soap","category":"beauty","qty":"19"},
+{"pid":"3","pname":"cola","category":"drink","qty":"13"},
+{"pid":"4","pname":"roti","category":"food","qty":"59"},
+{"pid":"5","pname":"shoes","category":"personal","qty":"40"},
+{"pid":"6","pname":"bag","category":"daystuffs","qty":"57"},
+{"pid":"7","pname":"phone","category":"acceserories","qty":"52"},
+{"pid":"8","pname":"laptop","category":"acceserories","qty":"51"}
+])
