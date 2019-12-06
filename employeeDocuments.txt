@@ -1,0 +1,12 @@
+db.employee.insert
+([
+{"eid":"1","ename":"jashan","ebranch":"CSE","jobtype":"part-time"},
+{"eid":"2","ename":"jasdeep","ebranch":"ECE","jobtype":"full-time"},
+{"eid":"3","ename":"ajimol","ebranch":"EEE","jobtype":"part-time"},
+{"eid":"4","ename":"manpreet","ebranch":"ECE","jobtype":"full-time"},
+{"eid":"5","ename":"kuljeet","ebranch":"IT","jobtype":"part-time"},
+{"eid":"6","ename":"simran","ebranch":"MECH","jobtype":"full-time"},
+{"eid":"7","ename":"param","ebranch":"CSE","jobtype":"full-time"},
+{"eid":"8","ename":"gaurav","ebranch":"EEE","jobtype":"part-time"}
+])
+
